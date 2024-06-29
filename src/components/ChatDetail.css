@@ -1,0 +1,7 @@
+@media (max-width: 420px) {
+    /* Example media query for tablets and smaller screens */
+    .MessageBubble {
+      max-width: 60%;
+    }
+  }
+  
