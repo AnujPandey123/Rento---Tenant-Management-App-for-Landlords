@@ -1,6 +1,6 @@
 # Rento - Tenant Management App for Landlords
 Rento is a React application designed for landlords to manage tenants efficiently. It features a login screen and three main tabs: Messaging, Invoice, and Survey. This README provides an overview of the app, its functionality, and how to navigate through it.
-
+## Live Demo: https://rento-tenant-management-app-for-landlords.vercel.app/
 ## UI Design and User Flow
 Mock-up: The UI design is implemented based on the Figma mock-up available here.
 User Flow: Routing between screens and tabs is described in the user flow diagram available here.
